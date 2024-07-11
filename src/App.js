@@ -10,12 +10,10 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://americanlibertine.net"
+          href="https://web.archive.org/web/20130430151325/http://anthologyofpostrock.tumblr.com/"
           target="_blank"
           rel="noopener noreferrer"
-        >
-	  americanlibertine.net
-        </a>
+        >https://web.archive.org/web/20130430151325/http://anthologyofpostrock.tumblr.com/</a>
       </header>
     </div>
   );

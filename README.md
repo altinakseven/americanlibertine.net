@@ -4,8 +4,6 @@ This page is hosted on Vercel to redirect to the web archive snapshot of Saturnu
 
 This story got some minor attention in 2012 and would have been lost if not for the good people at the Internet Archive.
 
-I never went to RVA much.
-
 ## License
 
 MIT
